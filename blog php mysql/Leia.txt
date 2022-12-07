@@ -1,0 +1,1 @@
+Necessario usar dentro do xampp, na pasta htdocs com apache e mysql ligado.
